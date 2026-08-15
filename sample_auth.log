@@ -1,0 +1,17 @@
+Aug 15 10:20:01 ubuntu-scanner sshd[1201]: Accepted publickey for reda from 192.168.56.1 port 51022 ssh2
+Aug 15 10:20:05 ubuntu-scanner sshd[1202]: Disconnected from 192.168.56.1 port 51022
+Aug 15 10:22:10 ubuntu-scanner sshd[1310]: Invalid user admin from 192.168.56.101 port 41500
+Aug 15 10:22:10 ubuntu-scanner sshd[1310]: Failed password for invalid user admin from 192.168.56.101 port 41500 ssh2
+Aug 15 10:22:12 ubuntu-scanner sshd[1311]: Invalid user test from 192.168.56.101 port 41501
+Aug 15 10:22:12 ubuntu-scanner sshd[1311]: Failed password for invalid user test from 192.168.56.101 port 41501 ssh2
+Aug 15 10:22:14 ubuntu-scanner sshd[1312]: Failed password for root from 192.168.56.101 port 41502 ssh2
+Aug 15 10:22:16 ubuntu-scanner sshd[1313]: Invalid user oracle from 192.168.56.101 port 41503
+Aug 15 10:22:16 ubuntu-scanner sshd[1313]: Failed password for invalid user oracle from 192.168.56.101 port 41503 ssh2
+Aug 15 10:22:18 ubuntu-scanner sshd[1314]: Failed password for root from 192.168.56.101 port 41504 ssh2
+Aug 15 10:22:20 ubuntu-scanner sshd[1315]: Invalid user postgres from 192.168.56.101 port 41505
+Aug 15 10:22:20 ubuntu-scanner sshd[1315]: Failed password for invalid user postgres from 192.168.56.101 port 41505 ssh2
+Aug 15 10:25:01 ubuntu-scanner sshd[1320]: Accepted publickey for reda from 192.168.56.1 port 51030 ssh2
+Aug 15 10:30:44 ubuntu-scanner sshd[1401]: Failed password for root from 203.0.113.55 port 33221 ssh2
+Aug 15 10:30:46 ubuntu-scanner sshd[1402]: Failed password for root from 203.0.113.55 port 33222 ssh2
+Aug 15 10:30:48 ubuntu-scanner sshd[1403]: Failed password for root from 203.0.113.55 port 33223 ssh2
+Aug 15 10:31:50 ubuntu-scanner sshd[1450]: Failed password for invalid user guest from 198.51.100.9 port 22011 ssh2
